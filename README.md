@@ -1,4 +1,4 @@
-# Jogo RPG usando POO com C#
+# Jogo RPG usando POO com C# :video_game:
 
 Projeto feito junto a Digital Innovation para praticar os conceitos:
 
